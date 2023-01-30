@@ -1,0 +1,9 @@
+svg {
+  stroke-width: 15px;
+  stroke: #ff665c;
+  fill: none;
+  stroke-linecap: round;
+}
+.circle {
+  stroke: rgb(93, 231, 231);
+}
